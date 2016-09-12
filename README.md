@@ -6,4 +6,7 @@ Code for experiments presented at 2016ICANN paper:
 
 - [Slides here](http://www.slideshare.net/franciscozamoraceu/integration-of-unsupervised-and-supervised-criteria-for-dnns-training)
 
-This code uses [APRIL-ANN](https://github.com/pakozm/april-ann) toolkit.
+This code uses [APRIL-ANN](https://github.com/pakozm/april-ann) toolkit. In any case,
+there is a tutorial to use APRIL-ANN with MNIST database here:
+
+- [APRIL-ANN MNIST tutorial](https://github.com/april-org/april-ann-tutorials/tree/master/MNIST-MLPs)
